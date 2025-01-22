@@ -8,7 +8,7 @@ I’m a developer with a focus on creating practical, efficient solutions that g
 - JavaScript
 - C++
 - Lua
-- exploring Rust.
+- explored a little bit of Rust,Go,Java,Zig
 
 ### ⭐ Notable Projects:
 - **[ZeroTier File Server](https://github.com/zorp52/zerotier-fileserver)**: A file-sharing system designed for users who can’t port forward, leveraging ZeroTier for seamless connectivity.
